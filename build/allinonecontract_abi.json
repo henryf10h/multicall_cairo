@@ -1,0 +1,14 @@
+[
+    {
+        "inputs": [],
+        "name": "validate_various_exercises",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "call_ex_14_contract",
+        "outputs": [],
+        "type": "function"
+    }
+]

@@ -1,0 +1,9 @@
+[project]
+protostar-version = "0.9.1"
+lib-path = "lib"
+
+[contracts]
+main = ["src/main.cairo"]
+allinonecontract = ["src/AllInOneContract.cairo"]
+iex10b = ["src/IEx10b.cairo"]
+
